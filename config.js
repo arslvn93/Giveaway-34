@@ -1,32 +1,32 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $435 Parents Escape Date Night – Free Entry",
+    "navBrandLogoText": "Lisa Hall",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>a Parents Escape</span> Date Night Worth <span class='highlight'>$435</span>!",
+    "heroSubheadline": "Busy parents, this one is for you. Enjoy dinner, child care, and a safe ride home. No stress. Entry ends November 10, 2025.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/2z7348hbchrmc0csqvcv1z69tr.jpg",
+    "promotionDates": "Enter Oct 14 – Nov 10, 2025. Winner announced Nov 11, 2025.",
+    "endDate": "2025-11-11T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
-    "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "entryFormCtaText": "Enter My Name Now!",
+    "name": "Parents Escape Giveaway",
+    "successModalHeaderText": "You’re in the Running!",
+    "successModalMainMessage": "Your entry for the <strong>Parents Escape Date Night Package</strong> is in! We’ll draw the winner on Nov 11, 2025 and notify by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Nov 11—check inbox and spam. We’ll also post on social for transparency."
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#FF6F61",
+      "#FFC107",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,142 +35,164 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the Parents Escape Date Night Package has been submitted. We will draw the winner on November 11, 2025 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on November 11. Follow @lisahallmontreal for the winner post and future giveaways."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/k1hfk2dsndrma0csqvcrv8s1jr.jpg",
+        "alt": "Smiling couple clinking glasses at a cozy restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/e83s08f4edrmc0csqvdbbezb54.jpg",
+        "alt": "Trusted babysitter playing with kids at home"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/7nmfn2bv2nrme0csqvdry1n4qw.jpg",
+        "alt": "Movie night with popcorn and tickets"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/s23bjq0ytnrme0csqvear99858.jpg",
+        "alt": "Rideshare car arriving for pickup"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-utensils",
+        "text": "$250 restaurant gift card to a top local spot"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-baby",
+        "text": "$100 prepaid card to cover ~2 hours of child care with your trusted sitter"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-film",
+        "text": "$50 for movie tickets and snacks or a sweet dessert stop"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-taxi",
+        "text": "$35 rideshare credit for a safe, easy trip"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-heart",
+        "text": "Simple date-night plan ideas so you can unplug fast"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Parents Escape Date Night Package",
+    "value": "$435 Value",
+    "description": "Picture this: the sitter is covered. You head out. Great food. Laughs. A movie or dessert. A safe ride home. You feel like you again. We cover the key costs so you can focus on each other, not the bill.",
+    "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10!",
+    "ctaButtonText": "I Want This Date Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Form",
+        "description": "Add your name and email. It takes under 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Tell us about space needs and timing for your next home."
+      },
+      {
+        "icon": "fas fa-share-alt",
+        "title": "Share for Good Karma",
+        "description": "Tell a parent friend who needs a night off too."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "You're In!",
+        "description": "We draw on Nov 11, 2025 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-users",
+        "text": "Built for busy parents"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-home",
+        "text": "Perfect for families short on space"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Your info stays safe"
+      },
+      {
+        "icon": "fas fa-random",
+        "text": "Fair random draw"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "Please read the fine print before entering. Must be 18+ and a Quebec resident to enter. One entry per person.",
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Anyone 18+ who lives in Quebec (Greater Montreal area) can enter. One entry per person."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What do I actually win?",
+        "a": "A $250 restaurant gift card, a $100 prepaid card for child care, $50 for movie or dessert, and $35 rideshare credit. Total $435."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I have to use a specific sitter or brand?",
+        "a": "No. Use your trusted sitter or a service you pick. We provide prepaid funds to cover about two hours."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Is this sponsored by any brand?",
+        "a": "No. This giveaway is by Lisa Hall. It is not sponsored by restaurants, babysitting services, rideshare, or cinemas."
+      },
+      {
+        "q": "How and when do I know if I win?",
+        "a": "We email the winner on Nov 11, 2025. We may also announce on Instagram and Facebook."
+      },
+      {
+        "q": "Do I need to buy anything?",
+        "a": "No. Entry is free. No purchase needed. Odds depend on number of entries."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Use a real email you check often so you don’t miss the winner note",
+      "Double-check your spelling before you submit",
+      "Follow Lisa on Instagram and Facebook for updates and the winner post",
+      "Answer the quick questions—this helps us serve growing families better",
+      "Share with another parent who needs a night off"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We pick the winner by random draw. Every valid entry has the same chance. One winner. No purchase needed."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Watch Your Email on Nov 11",
+      "text": "We email the winner on Nov 11, 2025. Check inbox and spam. We will also post on social for transparency."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-34.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-34.netlify.app&text=Win%20a%20%24435%20Parents%20Escape%20Date%20Night%E2%80%94Free%20Entry!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter your details below for a chance to win this Parents Escape Date Night!",
+    "entryCountText": "Parents across Montreal are entering now. Don’t miss your shot.",
+    "socialSharePrompt": "Know a parent who needs a break? Share this giveaway with them:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +214,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +222,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +236,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +260,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/lisahallcourtier/",
+      "instagram": "https://instagram.com/lisahallmontreal"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Lisa Hall",
+      "title": "Real Estate Professional",
+      "phone": "514-996-6605",
+      "email": "lisahallmontreal@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Lisa Hall and is not affiliated with or endorsed by any restaurant, babysitting service, rideshare, or cinema brand. Contest runs Oct 14–Nov 10, 2025 (11:59 PM ET). One winner will be selected at random on Nov 11, 2025 from eligible entries. Must be 18+ and a Quebec resident to enter. One entry per person. No purchase necessary. Void where prohibited. Prizes are provided as prepaid funds/gift cards; brand choices are up to the winner and subject to availability and standard terms.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "",
+    "organizerName": "Lisa Hall",
+    "brokerageName": "",
+    "address": "",
+    "email": "lisahallmontreal@gmail.com",
+    "phone": "514-996-6605",
+    "copyrightOwner": "Lisa Hall"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-34",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-34",
+    "netlifyUrl": "http://Giveaway-34.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Parents Escape Giveaway"
   }
 };
