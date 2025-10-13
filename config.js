@@ -134,11 +134,11 @@ const config = {
       },
       {
         "q": "What do I actually win?",
-        "a": "A $250 restaurant gift card, a $100 prepaid card for child care, $50 for movie or dessert, and $35 rideshare credit. Total $435."
+        "a": "You’ll win a Parents Escape Date Night package worth $435, including a romantic dinner for two at a local fine dining restaurant, plus extras to make it a stress-free night out: think wine, dessert, and maybe even a little surprise gift to take home."
       },
       {
-        "q": "Do I have to use a specific sitter or brand?",
-        "a": "No. Use your trusted sitter or a service you pick. We provide prepaid funds to cover about two hours."
+        "q": "Do I need to buy anything?",
+        "a": "No. Entry is free. No purchase needed. Odds depend on number of entries."
       },
       {
         "q": "Is this sponsored by any brand?",
@@ -147,10 +147,6 @@ const config = {
       {
         "q": "How and when do I know if I win?",
         "a": "We email the winner on Nov 11, 2025. We may also announce on Instagram and Facebook."
-      },
-      {
-        "q": "Do I need to buy anything?",
-        "a": "No. Entry is free. No purchase needed. Odds depend on number of entries."
       }
     ],
     "tips": [
@@ -182,7 +178,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760384837562_0",
+      "id": "q_auto_1760385169783_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -204,7 +200,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760384837562_1",
+      "id": "q_auto_1760385169783_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -226,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760384837562_2",
+      "id": "q_auto_1760385169783_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
