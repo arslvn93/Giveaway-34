@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $435 Parents Escape Date Night",
+    "pageTitle": "Win $435 Parents Date Night Away",
     "navBrandLogoText": "Lisa Hall",
     "privacyPolicyLink": "https://www.mimmobilier.com/privacy-policy"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>a Parents Escape</span> Date Night Worth <span class='highlight'>$435</span>!",
-    "heroSubheadline": "Busy parents, this one is for you. Enjoy dinner which you deserve. No stress. Entry ends November 10, 2025.",
+    "heroHeadline": "Win <span class='highlight'>a Parents </span> Date Night Worth <span class='highlight'>$435</span>!",
+    "heroSubheadline": "Busy parents, this one is for you. Enjoy a hotel stay and spa package. No stress. Entry ends November 10, 2025.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/2z7348hbchrmc0csqvcv1z69tr.jpg",
     "promotionDates": "Enter Oct 14 – Nov 10, 2025. Winner announced Nov 11, 2025.",
     "endDate": "2025-11-11T04:59:00.000Z",
@@ -178,7 +178,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760385508709_0",
+      "id": "q_auto_1760395916625_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -200,7 +200,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760385508709_1",
+      "id": "q_auto_1760395916625_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760385508709_2",
+      "id": "q_auto_1760395916625_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
