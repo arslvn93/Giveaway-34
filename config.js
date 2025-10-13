@@ -12,7 +12,7 @@ const config = {
     "endDate": "2025-11-11T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
-    "name": "Parents Escape Giveaway",
+    "name": "Parents Hotel & Spa Giveaway",
     "successModalHeaderText": "You’re in the Running!",
     "successModalMainMessage": "Your entry for the <strong>Parents Escape Date Night Package</strong> is in! We’ll draw the winner on Nov 11, 2025 and notify by email. Good luck!",
     "successModalEmailPrompt": "Watch your email on Nov 11—check inbox and spam. We’ll also post on social for transparency."
@@ -163,13 +163,13 @@ const config = {
       "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-34.netlify.app",
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-34.netlify.app&text=Win%20a%20%24435%20Parents%20Escape%20Date%20Night%E2%80%94Free%20Entry!"
     },
-    "subtitle": "Enter your details below for a chance to win this Parents Escape Date Night!",
+    "subtitle": "Enter your details below for a chance to win this Hotel & Spa Date Night!",
     "entryCountText": "Parents across Montreal are entering now. Don’t miss your shot.",
     "socialSharePrompt": "Know a parent who needs a break? Share this giveaway with them:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760396412693_0",
+      "id": "q_auto_1760396479029_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -191,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396412693_1",
+      "id": "q_auto_1760396479029_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396412693_2",
+      "id": "q_auto_1760396479029_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
