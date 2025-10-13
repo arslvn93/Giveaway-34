@@ -66,7 +66,7 @@ const config = {
         "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
       }
     ],
-    "name": "Parents Escape Date Night Package",
+    "name": "Parents Hotel & Spa Date Night Package",
     "value": "$435 Value",
     "description": "Picture this: no noise, no mess, no bedtime routines, just calm, laughter, and connection. You check into a beautiful hotel, slip into soft robes, and enjoy a relaxing spa water circuit together. No distractions. No responsibilities. Just the two of you, recharging and remembering what it feels like to truly unwind.",
     "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10!",
@@ -169,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760396479029_0",
+      "id": "q_auto_1760396499328_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -191,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396479029_1",
+      "id": "q_auto_1760396499328_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396479029_2",
+      "id": "q_auto_1760396499328_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
