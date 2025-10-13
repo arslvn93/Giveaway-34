@@ -94,9 +94,9 @@ const config = {
         "description": "Tell a parent friend who needs a night off too."
       },
       {
-        "icon": "fas fa-trophy",
-        "title": "You're In!",
-        "description": "We draw on Nov 11, 2025 and email the winner."
+        "icon": "fa-brands fa-square-instagram",
+        "title": "Follow My Page ",
+        "description": "Follow @lisahallhomes on Instagram"
       }
     ],
     "highlights": [
@@ -134,7 +134,7 @@ const config = {
       },
       {
         "q": "What do I actually win?",
-        "a": "You’ll win a Parents Escape Date Night package worth $435, which includes a one-night stay at a boutique hotel and q couples spa experience. It’s the perfect chance to unwind, reconnect, and enjoy some well-deserved peace."
+        "a": "You’ll win a Parents Escape Date Night package worth $435, including a romantic dinner for two at a local fine dining restaurant, plus extras to make it a stress-free night out: think wine, dessert, and maybe even a little surprise gift to take home."
       },
       {
         "q": "Do I need to buy anything?",
@@ -178,7 +178,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760385432561_0",
+      "id": "q_auto_1760385508709_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -200,7 +200,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760385432561_1",
+      "id": "q_auto_1760385508709_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -222,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760385432561_2",
+      "id": "q_auto_1760385508709_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
