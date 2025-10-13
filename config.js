@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win <span class='highlight'>a Parents </span> Date Night Worth <span class='highlight'>$435</span>!",
     "heroSubheadline": "Busy parents, this one is for you. Enjoy a hotel stay and spa package. No stress. Entry ends November 10, 2025.",
-    "heroBackgroundImageUrl": "https://images.pexels.com/photos/237371/pexels-photo-237371.jpeg?_gl=1*7qvrmr*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2MDg1JGozOSRsMCRoMA..",
+    "heroBackgroundImageUrl": "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?_gl=1*1e0gjrq*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2MTc4JGo1MyRsMCRoMA..",
     "promotionDates": "Enter Oct 14 – Nov 10, 2025. Winner announced Nov 11, 2025.",
     "endDate": "2025-11-11T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -40,11 +40,11 @@ const config = {
         "alt": "Smiling couple clinking glasses at a cozy restaurant"
       },
       {
-        "src": "https://iili.io/KedjNSI.webp",
+        "src": "https://images.pexels.com/photos/6724351/pexels-photo-6724351.jpeg?_gl=1*1keb10c*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2MjczJGoxOSRsMCRoMA..",
         "alt": "Trusted babysitter playing with kids at home"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/7nmfn2bv2nrme0csqvdry1n4qw.jpg",
+        "src": "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?_gl=1*1e0gjrq*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2MTc4JGo1MyRsMCRoMA..",
         "alt": "Movie night with popcorn and tickets"
       },
       {
@@ -174,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760396117398_0",
+      "id": "q_auto_1760396316342_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396117398_1",
+      "id": "q_auto_1760396316342_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396117398_2",
+      "id": "q_auto_1760396316342_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
