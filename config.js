@@ -55,14 +55,14 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-utensils",
-        "text": "Spa Water Circuit for Two – unwind with full access to saunas, hot baths, and relaxation space"
+        "text": "One-Night Hotel Stay: enjoy comfort and quiet at a boutique-style local hotel"
       },
       {
         "icon": "fas fa-baby",
         "text": "Spa Water Circuit for Two: unwind with full access to saunas, hot baths, and relaxation space"
       },
       {
-        "icon": "",
+        "icon": "fas fa-star",
         "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
       },
       {
@@ -182,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760383904567_0",
+      "id": "q_auto_1760384021114_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -204,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760383904567_1",
+      "id": "q_auto_1760384021114_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -226,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760383904567_2",
+      "id": "q_auto_1760384021114_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
