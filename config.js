@@ -55,28 +55,24 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-utensils",
-        "text": "$250 restaurant gift card to a top local spot"
+        "text": "Spa Water Circuit for Two – unwind with full access to saunas, hot baths, and relaxation space"
       },
       {
         "icon": "fas fa-baby",
-        "text": "$100 prepaid card to cover ~2 hours of child care with your trusted sitter"
+        "text": "Spa Water Circuit for Two: unwind with full access to saunas, hot baths, and relaxation space"
       },
       {
-        "icon": "fas fa-film",
-        "text": "$50 for movie tickets and snacks or a sweet dessert stop"
-      },
-      {
-        "icon": "fas fa-taxi",
-        "text": "$35 rideshare credit for a safe, easy trip"
+        "icon": "",
+        "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
       },
       {
         "icon": "fas fa-heart",
-        "text": "Simple date-night plan ideas so you can unplug fast"
+        "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
       }
     ],
     "name": "Parents Escape Date Night Package",
     "value": "$435 Value",
-    "description": "Picture this: the sitter is covered. You head out. Great food. Laughs. A movie or dessert. A safe ride home. You feel like you again. We cover the key costs so you can focus on each other, not the bill.",
+    "description": "Picture this: no noise, no mess, no bedtime routines, just calm, laughter, and connection. You check into a beautiful hotel, slip into soft robes, and enjoy a relaxing spa water circuit together. No distractions. No responsibilities. Just the two of you, recharging and remembering what it feels like to truly unwind.",
     "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10!",
     "ctaButtonText": "I Want This Date Night!"
   },
@@ -186,7 +182,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760383511485_0",
+      "id": "q_auto_1760383904567_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +204,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760383511485_1",
+      "id": "q_auto_1760383904567_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +226,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760383511485_2",
+      "id": "q_auto_1760383904567_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
