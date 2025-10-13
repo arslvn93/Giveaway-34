@@ -59,14 +59,10 @@ const config = {
       },
       {
         "icon": "fas fa-baby",
-        "text": "Spa Water Circuit for Two: unwind with full access to saunas, hot baths, and relaxation space"
+        "text": "Spa Experience: unwind in a relaxation space"
       },
       {
         "icon": "fas fa-star",
-        "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
-      },
-      {
-        "icon": "fas fa-heart",
         "text": "Perfect Opportunity for Memories: because this kind of night deserves a photo"
       }
     ],
@@ -178,7 +174,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760395916625_0",
+      "id": "q_auto_1760395971861_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -200,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760395916625_1",
+      "id": "q_auto_1760395971861_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -222,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760395916625_2",
+      "id": "q_auto_1760395971861_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
