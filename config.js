@@ -40,7 +40,7 @@ const config = {
         "alt": "Smiling couple clinking glasses at a cozy restaurant"
       },
       {
-        "src": "https://images.pexels.com/photos/6724351/pexels-photo-6724351.jpeg?_gl=1*1keb10c*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2MjczJGoxOSRsMCRoMA..",
+        "src": "https://images.pexels.com/photos/3188/love-romantic-bath-candlelight.jpg?_gl=1*ywimds*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk2Njg2JGozNiRsMCRoMA..",
         "alt": "Trusted babysitter playing with kids at home"
       },
       {
@@ -169,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760396632055_0",
+      "id": "q_auto_1760396702702_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -191,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396632055_1",
+      "id": "q_auto_1760396702702_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -213,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396632055_2",
+      "id": "q_auto_1760396702702_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
