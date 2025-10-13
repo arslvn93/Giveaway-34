@@ -85,11 +85,6 @@ const config = {
         "description": "Tell us about space needs and timing for your next home."
       },
       {
-        "icon": "fas fa-share-alt",
-        "title": "Share for Good Karma",
-        "description": "Tell a parent friend who needs a night off too."
-      },
-      {
         "icon": "fa-brands fa-square-instagram",
         "title": "Follow My Page ",
         "description": "Follow @lisahallhomes on Instagram"
@@ -174,7 +169,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760396316342_0",
+      "id": "q_auto_1760396408077_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -196,7 +191,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396316342_1",
+      "id": "q_auto_1760396408077_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -218,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760396316342_2",
+      "id": "q_auto_1760396408077_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
